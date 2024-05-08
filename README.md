@@ -32,14 +32,14 @@ BookBot is a Python script that analyzes a text file and generates a report on t
 
 ## Example Output
 
---- Begin report of books/frankenstein.txt --- \
-77986 words found in the document \
+--- Begin report of books/frankenstein.txt ---  
+77986 words found in the document
 
-The e character was found 89288 times\ 
-The t character was found 61902 times\
-The a character was found 48991 times\
-...\
-\
+The e character was found 89288 times   
+The t character was found 61902 times  
+The a character was found 48991 times  
+...  \
+  \
 --- End report ---
 
 
