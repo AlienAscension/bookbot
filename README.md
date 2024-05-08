@@ -24,11 +24,19 @@ BookBot is a Python script that analyzes a text file and generates a report on t
     cd bookbot
     ```
 
-3. Run the script:
+3. Edit the path in the main.py to the document you want to analyse:
+
+    ```bash
+    file_path = 'books/frankenstein.txt'
+    ```
+
+4. run the main.py:
 
     ```bash
     python main.py
     ```
+
+
 
 ## Example Output
 
